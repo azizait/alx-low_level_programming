@@ -8,7 +8,7 @@
 	 * @age: Second member
 	 * @owner: Third member
 	 *
-	 * Description: Longer description
+	 * Description: a dog struct creates a dog with three members name, age and owner
 	 */
 	struct dog
 	{
